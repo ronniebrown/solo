@@ -1,5 +1,5 @@
 # Project Name #
-
+  Coffee finder
 <!-- 
 > This material was originally posted [here](http://www.quora.com/What-is-Amazons-approach-to-product-development-and-product-management). It is reproduced here for posterities sake.
 
@@ -17,28 +17,35 @@ Once the project moves into development, the press release can be used as a touc
  -->
  
 ## Heading ##
-  > Name the product in a way the reader (i.e. your target customers) will understand.
+  Good coffee
 
 ## Sub-Heading ##
-  > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
+  Find the best coffee anywhere.
 
 ## Summary ##
   > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
+  Crowd sourced best coffee shops, recommendations of what to try.  For the discerning coffee drinker.
 
 ## Problem ##
   > Describe the problem your product solves.
+  Are you a coffee snob?  Starbucks won't cut it unless its the upscale reserve in Seattle's Capital Hill neighborhood?
 
 ## Solution ##
   > Describe how your product elegantly solves the problem.
+  Yelp & Google will give you everyone's opinion.  This is sourced by coffee snobs for coffee snobs.
 
 ## Quote from You ##
   > A quote from a spokesperson in your company.
+  " Sunday brunch with the in-laws and pops wants Jamaiican Blue Mountain, bang coffee finder. "
 
 ## How to Get Started ##
   > Describe how easy it is to get started.
+  Download the app, accept the GPS locating position, read the reviews, sip & enjoy.
 
 ## Customer Quote ##
   > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
+  " If I had another burnt soy latte at Sbucks I was going to go ape .... "
 
 ## Closing and Call to Action ##
   > Wrap it up and give pointers where the reader should go next.
+  Coffee should be an experience, if you are going out of your way to try coffee in a far off land, stay awhile and enjoy the local scenery.
